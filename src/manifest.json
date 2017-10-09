@@ -1,0 +1,27 @@
+{
+  "name": "Shimekiri",
+  "short_name": "Shimekiri",
+  "lang": "en-GB",
+  "start_url": "https://shimekiri.xyz",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "related_applications": [
+    {
+      "platform": "play",
+      "url": "https://play.google.com/store/apps/details?id=ja.bito.shimekiri",
+      "id": "ja.bito.shimekiri"
+    }
+  ],
+  "icons": [
+      {
+          "src": "/assets/android-chrome-192x192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+      },
+      {
+          "src": "/assets/android-chrome-512x512.png",
+          "sizes": "512x512",
+          "type": "image/png"
+      }
+  ]
+}
